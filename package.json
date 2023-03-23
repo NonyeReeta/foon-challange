@@ -1,0 +1,22 @@
+{
+  "name": "challange",
+  "version": "1.0.0",
+  "description": "Script to solve simple math equation",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NonyeReeta/solveForX.git"
+  },
+  "author": "Nonye Ibeanu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NonyeReeta/solveForX/issues"
+  },
+  "homepage": "https://github.com/NonyeReeta/solveForX#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
