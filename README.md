@@ -1,4 +1,4 @@
-# This script will solve simple math equations like
+# This CLI script will solve simple math equations like
 
 * 7x - 2 = 21,
 * 2(4x + 3) + 6 = 24 - 4x.
