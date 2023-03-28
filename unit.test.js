@@ -22,8 +22,8 @@ describe("calculate equation test", () => {
 });
 
 describe('calculate equation test', () => {
-    test("8x=24-4x should return x=24/12", () => {
-        expect(solveForX("8x+4x=24")).toEqual("x=24/12");
+    test("8x+4x=24 should return x=24/12", () => {
+      expect(solveForX("8x+4x=24")).toEqual("x=24/12");
     });
 })
 

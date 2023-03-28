@@ -73,8 +73,8 @@ function format(equation) {
 
 // UNCOMMENT THE THREE LINES OF CODE BELOW
 
-// console.log(format("2(4x + 3) - 6 = 24 - 4x"));
-// result = {};
-// console.log(format("7x - 2 = 21"));
+console.log(format("2(4x + 3) - 6 = 24 - 4x"));
+result = {};
+console.log(format("7x - 2 = 21"));
 
 module.exports = format;
